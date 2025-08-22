@@ -18,66 +18,6 @@ A modern, elegant interior design website template built with pure HTML5 and CSS
 - **![Google Fonts](https://img.shields.io/badge/Google_Fonts-Nunito_Sans-4285F4?style=flat&logo=google-fonts&logoColor=white)** - Modern typography with Nunito Sans
 - **CDN Hosting** - All assets delivered via Content Delivery Networks
 
-## 🎨 Design Features
-
-### Color Scheme
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Primary Teal | `#98CCD3` | Accent buttons, icons, borders |
-| Dark Gray | `#333333` | Footer background |
-| Light Gray | `#666666` | Secondary text |
-| White | `#FFFFFF` | Backgrounds, text |
-| Orange Accent | `#FF5733` | Section headings |
-
-### Typography
-- **Primary Font**: Nunito Sans (200-1000 weight range)
-- **Font Weights**: Light (300), Regular (400), Bold (700)
-- **Line Height**: 1.7 for optimal readability
-- **Responsive Sizing**: Fluid typography that scales with viewport
-
-### Visual Elements
-- **Custom SVG Icons** - Hand-crafted interior design themed icons
-- **High-Quality Imagery** - Professional interior design photos
-- **Smooth Transitions** - CSS transitions and hover effects
-- **Box Shadows** - Subtle depth and dimension
-- **Border Effects** - Creative border designs for visual interest
-
-## 📱 Responsive Design
-
-### Breakpoints
-- **Mobile**: < 768px (optimized for smartphones)
-- **Tablet**: 768px - 1024px (responsive grid layout)
-- **Desktop**: > 1024px (full feature experience)
-
-### Responsive Features
-- **Flexbox Layout** - Fluid and flexible component arrangement
-- **CSS Grid** - Advanced layout for complex sections
-- **Media Queries** - Adaptive styling for different devices
-- **Mobile-First** - Progressive enhancement approach
-
-## ⚡ Functionality & Features
-
-### Navigation & Structure
-- **Fixed Background** - Parallax effect with fixed background image
-- **Sticky Header** - Persistent navigation with social media links
-- **Smooth Scrolling** - Native anchor link navigation
-- **Responsive Menu** - Mobile-optimized navigation
-
-### Interactive Elements
-- **Hover Effects** - Smooth transitions on cards, buttons, and links
-- **SVG Animations** - Custom interior design themed icons
-- **Form Elements** - Newsletter subscription with validation
-- **Social Media Integration** - Platform links with hover effects
-
-### Content Sections
-1. **Hero Section** - Full-screen background with call-to-action
-2. **Services Overview** - 6 service cards with custom SVG icons
-3. **Team Presentation** - Team member profiles with bios
-4. **Portfolio Showcase** - Project gallery with descriptions
-5. **Testimonials** - Client feedback and reviews
-6. **Blog/News** - Latest articles and updates
-7. **Footer** - Comprehensive site navigation and contact
-
 ## 🎯 Key Technical Features
 
 ### Performance Optimizations
@@ -86,11 +26,6 @@ A modern, elegant interior design website template built with pure HTML5 and CSS
 - **Efficient CSS** - Minimal and optimized stylesheets
 - **No jQuery** - Lightweight vanilla JavaScript
 
-### Accessibility Features
-- **Semantic HTML** - Proper heading structure and landmarks
-- **ARIA Labels** - Enhanced screen reader support
-- **Color Contrast** - WCAG compliant color combinations
-- **Keyboard Navigation** - Full keyboard accessibility
 
 ## 📁 Project Structure
 
@@ -117,12 +52,6 @@ assignment/
 # No build process or dependencies required
 ```
 
-### Customization
-1. **Colors**: Modify CSS variables in `:root` selector
-2. **Content**: Update text and images in `index.html`
-3. **Styling**: Adjust styles in `style.css`
-4. **Icons**: Replace SVG icons or use Font Awesome classes
-
 ### Browser Support
 - ✅ Chrome 90+
 - ✅ Firefox 88+
@@ -142,12 +71,6 @@ assignment/
 
 ## 🌟 Unique Features
 
-### Design Innovations
-- **Custom SVG Graphics** - Unique interior design themed icons
-- **Glassmorphism Effects** - Modern translucent elements
-- **Micro-interactions** - Subtle hover and focus states
-- **Typography Hierarchy** - Clear visual information structure
-
 ### Technical Achievements
 - **Pure CSS Solution** - No JavaScript frameworks required
 - **Modern CSS Features** - Grid, Flexbox, Variables, Blend Modes
@@ -165,11 +88,6 @@ assignment/
 - ✅ Cross-browser compatibility
 - ✅ Clean, maintainable code
 
-### Browser Compatibility
-- **Modern Browsers**: Full feature support
-- **Legacy Browsers**: Graceful degradation
-- **Mobile Devices**: Touch-optimized interface
-- **Screen Readers**: ARIA labels and semantic structure
 
 ## 🤝 Contributing
 
@@ -179,13 +97,6 @@ This project demonstrates modern web development practices including:
 - Responsive design principles
 - Performance optimization
 - Accessibility best practices
-
-## 📞 Support
-
-For technical questions or customization:
-- Review the CSS variables for styling changes
-- Check browser console for any errors
-- Validate HTML structure for semantic correctness
 
 ---
 
